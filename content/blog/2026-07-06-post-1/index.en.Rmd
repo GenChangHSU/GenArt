@@ -1,0 +1,25 @@
+---
+title: Post 1
+author: Gen-Chang Hsu
+date: '2026-07-06'
+slug: []
+categories: []
+tags: []
+image: img/default.jpg
+weight: 100
+---
+
+This is the first test post.
+
+```{r}
+library(tidyverse)
+
+ggplot(data = iris) +
+  geom_point(aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +   theme_bw()
+  
+```
+
+
+
+
+
