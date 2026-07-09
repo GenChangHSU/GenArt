@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Index on Tella</title>
-		<link>https://genchanghusgenart.netlify.app/tags/index/</link>
+		<link>https://genchanghsugenart.netlify.app/tags/index/</link>
 		<description>Recent content in Index on Tella</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,14 +10,14 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+			<lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://genchanghusgenart.netlify.app/tags/index/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://genchanghsugenart.netlify.app/tags/index/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Posts</title>
-				<link>https://genchanghusgenart.netlify.app/blog/</link>
-				<pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-				<guid>https://genchanghusgenart.netlify.app/blog/</guid>
+				<link>https://genchanghsugenart.netlify.app/blog/</link>
+				<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://genchanghsugenart.netlify.app/blog/</guid>
 				<description></description>
 			</item>
 	</channel>

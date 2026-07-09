@@ -30,7 +30,7 @@ params:
     size: h-14
   mainSections: blog
   share:
-    enable: true
+    enable: false
   showBlog: true
   site:
     name: GenARt
@@ -70,6 +70,8 @@ privacy:
     disabled: false
     privacyEnhanced: true
 markup:
+  highlight:
+    style: "tango"
   goldmark:
     renderer:
       unsafe: true

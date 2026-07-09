@@ -19,5 +19,11 @@ options(
   blogdown.method = 'markdown'
 )
 
+knitr::opts_chunk$set(
+  warning = FALSE,
+  message = FALSE,
+  fig.align = "center"
+)
+
 # fix Hugo version
 options(blogdown.hugo.version = "0.163.2")

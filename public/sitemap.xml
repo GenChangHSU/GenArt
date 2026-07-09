@@ -2,93 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genchanghusgenart.netlify.app/products/example/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+    <loc>https://genchanghsugenart.netlify.app/blog/2026-07-06-post-1/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/</loc>
+    <loc>https://genchanghsugenart.netlify.app/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://genchanghsugenart.netlify.app/tags/index/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://genchanghsugenart.netlify.app/blog/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://genchanghsugenart.netlify.app/tags/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://genchanghsugenart.netlify.app/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/categories/</loc>
+    <loc>https://genchanghsugenart.netlify.app/blog/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://genchanghsugenart.netlify.app/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/index/</loc>
+    <loc>https://genchanghsugenart.netlify.app/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/plot/</loc>
+    <loc>https://genchanghsugenart.netlify.app/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/</loc>
+    <loc>https://genchanghsugenart.netlify.app/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://genchanghsugenart.netlify.app/about/</loc>
   </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/products/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genchanghusgenart.netlify.app/contact/</loc>
+    <loc>https://genchanghsugenart.netlify.app/series/</loc>
   </url>
 </urlset>

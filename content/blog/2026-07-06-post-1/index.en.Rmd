@@ -15,11 +15,14 @@ This is the first test post.
 library(tidyverse)
 
 ggplot(data = iris) +
-  geom_point(aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +   theme_bw()
+  geom_point(aes(x = Sepal.Length, y = Sepal.Width, color = Species)) + 
+  theme_bw()
   
 ```
 
 
+This is the end of the post!
 
+<br>
 
 

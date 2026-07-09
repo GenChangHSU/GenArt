@@ -10,5 +10,5 @@ and my [personal website](https://genchanghsu.github.io/) to learn more!
 
 <h2>About this blog</h2>
 
-This is a habitat for generative art in R: for fun, for enjoyment, for creativity...
+This blog is a habitat for generative art in R: for fun, for enjoyment, for creativity...
 
