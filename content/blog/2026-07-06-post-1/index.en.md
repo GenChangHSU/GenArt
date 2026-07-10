@@ -5,7 +5,7 @@ date: '2026-07-06'
 slug: []
 categories: []
 tags: []
-image: img/default.jpg
+image: /img/post/Post1.png
 weight: 100
 ---
 
