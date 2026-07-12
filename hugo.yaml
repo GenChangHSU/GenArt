@@ -1,5 +1,5 @@
 baseURL: https://genchanghsugenart.netlify.app/
-title: Tella
+title: GenARt
 author: username
 languageCode: en
 DefaultContentLanguage: en
@@ -33,24 +33,25 @@ params:
     enable: false
   showBlog: true
   site:
-    name: GenARt
+    name:
 menu:
-  footer:
-    - name: Home
-      url: /
-      weight: 1
-    - name: Github
-      url: https://github.com/GenChangHSU/GenArt
-      weight: 2
+#  footer:
+#    - name: Home
+#      url: /
+#      weight: 1
+#    - name: Github
+#      url: https://github.com/GenChangHSU/GenArt
+#      weight: 2
   main:
     - identifier: about
       name: About
       url: /about/
       weight: 1
-    - identifier: blog
-      name: Posts
-      url: /blog/
+    - name: GitHub
+      url: https://github.com/GenChangHSU/GenArt
       weight: 2
+      params:
+        newtab: true
 taxonomies:
   category: categories
   series: series
